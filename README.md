@@ -1,5 +1,5 @@
-# android-animate-RichEditor
-## http://www.lesscode.cn/index.php?s=/view-index-id-200.shtml
+## 一个可以插入和删除图片（bitmap）的富文本输入控件
+#### 中文讲解：http://www.lesscode.cn/index.php?s=/view-index-id-200.shtml
 android rich editor which enables users to insert/delete bitmaps and text into edit-view with animations.
 ####target goal
 Recently, my product manager requires our team to implement this kind of interactive experience: a rich editor which enables users to insert/delete images and text at anywhere they want. However, almost everyone denies this demand at first, because our time remain is at tension and this kind of demand may cause unpredicted out-of-control.<br>
